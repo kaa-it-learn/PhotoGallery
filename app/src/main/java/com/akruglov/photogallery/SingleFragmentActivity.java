@@ -9,6 +9,7 @@ import android.support.v7.app.AppCompatActivity;
 /**
  * Created by akruglov on 2/25/17.
  */
+
 public abstract class SingleFragmentActivity extends AppCompatActivity {
 
     protected abstract Fragment createFragment();
